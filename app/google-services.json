@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787583475409",
+    "firebase_url": "https://augscanamc-default-rtdb.firebaseio.com",
+    "project_id": "augscanamc",
+    "storage_bucket": "augscanamc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787583475409:android:aed388aaf8304f8b72eff0",
+        "android_client_info": {
+          "package_name": "com.example.amcremind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787583475409-hbbgim2c67c199ss07no6451rh5reri6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlLYJGycfQKOE3FpBB6NVIXt20yOnMhKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787583475409-hbbgim2c67c199ss07no6451rh5reri6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
